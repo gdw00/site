@@ -60,7 +60,7 @@ pygmentsStyle = "native"
     description = """The homepage of Astatine. This website is a demo the of the \
     Hugo theme Astatine."""
     # Author of the site
-    authorName = "Jack Harkness"
+    authorName = "Dawei Gao"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
         name = "img/main.jpg"
@@ -72,7 +72,7 @@ pygmentsStyle = "native"
 
     # Optional: add a twitter handle and mastodon handle for SEO.
     # [params.twitter]
-        # name = "@Jack_harkness"
+        # name = "@Dawei Gao"
     # [params.mastodon]
         # name = "@jkharkness"
         # host = "mastodon.social"
