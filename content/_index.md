@@ -4,7 +4,7 @@
 name: "Dawei Gao"
 # Your profile picture
 imgname: 
-  name: "img/Dawei.jpg"
+  name: "img/main.jpg"
   alt: "Picture of me"
   type: image/jpeg
 # More sources can be added (optional) using 
