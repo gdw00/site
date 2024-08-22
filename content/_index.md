@@ -19,7 +19,7 @@ personal_title: "PhD student"
 # An address (you can list multiple)
 address: 
   - 
-    name: Discovery Park
+    name: Email: daweigao00@gmail.com
     street: University of North Texas 
     postal_code: "76207"
     locality: Denton, TX
