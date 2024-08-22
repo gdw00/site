@@ -118,10 +118,9 @@ publications:
 
 # Bio
 
-I am a chemical element with the symbol At and atomic number 85. I am 
-the rarest naturally occurring element in the Earth's crust, occurring only as
-the decay product of various heavier elements. All of my isotopes are
-short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. 
+My name is Dawei Gao, and I am a PhD student in Computer Science and Engineering at the University of North Texas, under the supervision of Prof. Yunhe Feng. My research interests include Responsible AI, Large Language Models, and Continual Learning.
+ 
+Before joining UNT, I obtained a Master's degree in Electronic and Information Engineering at the University of Chinese Academy of Sciences. My research experience includes the simulation of composite materials and the application of continual learning techniques to medical image segmentation. I combined the Segment Anything Model with regularization strategies to mitigate catastrophic forgetting. I also hold a Bachelor's degree in Prospecting Technology and Engineering from the China University of Petroleum, Beijing, where I conducted research on the application of Convolutional Neural Networks for seismic wave classification.
 
-A pure sample of myself has never been assembled, because any macroscopic
-specimen would be immediately vaporized by the heat of its own radioactivity.
+I primarily program in Python and have experience with C++ and C. In my free time, I enjoy hiking and running, and I have successfully completed a full marathon.
+
