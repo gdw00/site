@@ -15,11 +15,11 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "PhD student"
+personal_title: "Ph.D. Research Assistant"
 # An address (you can list multiple)
 address: 
   - 
-    name: Email: daweigao00@gmail.com
+    name: daweigao00@gmail.com
     street: University of North Texas 
     postal_code: "76207"
     locality: Denton, TX
