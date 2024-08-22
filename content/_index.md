@@ -26,11 +26,11 @@ address:
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
-email: daweigao00@gmail.com
-#Add an email "image" for spam protection. With light and dark mode
-emailImg: 
-  dark: /img/dark_email.png
-  light: /img/light_email.png
+# email: daweigao00@gmail.com
+# Add an email "image" for spam protection. With light and dark mode
+# emailImg: 
+#   dark: /img/dark_email.png
+#   light: /img/light_email.png
 
 # List your publications. The required fields are pdf, title, and image 
 # (which should be the image path). The other fields are optional.
