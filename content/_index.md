@@ -27,7 +27,7 @@ address:
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
 email: daweigao00@gmail.com
-Add an email "image" for spam protection. With light and dark mode
+#Add an email "image" for spam protection. With light and dark mode
 emailImg: 
   dark: /img/dark_email.png
   light: /img/light_email.png
