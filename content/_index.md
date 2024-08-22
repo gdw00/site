@@ -19,10 +19,10 @@ personal_title: "PhD student"
 # An address (you can list multiple)
 address: 
   - 
-    name: Everywhere
-    street: Nowhere
-    postal_code: "000000"
-    locality: Earth
+    name: Discovery Park
+    street: University of North Texas 
+    postal_code: "76207"
+    locality: Denton, TX
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
@@ -116,9 +116,9 @@ publications:
 --- 
  
 
-# Bio
+# Biography
 
-My name is Dawei Gao, and I am a PhD student in Computer Science and Engineering at the University of North Texas, under the supervision of Prof. Yunhe Feng. My research interests include Responsible AI, Large Language Models, and Continual Learning.
+I am a PhD student in Computer Science and Engineering at the University of North Texas, under the supervision of Prof. Yunhe Feng. My research interests include Responsible AI, Large Language Models, and Continual Learning.
  
 Before joining UNT, I obtained a Master's degree in Electronic and Information Engineering at the University of Chinese Academy of Sciences. My research experience includes the simulation of composite materials and the application of continual learning techniques to medical image segmentation. I combined the Segment Anything Model with regularization strategies to mitigate catastrophic forgetting. I also hold a Bachelor's degree in Prospecting Technology and Engineering from the China University of Petroleum, Beijing, where I conducted research on the application of Convolutional Neural Networks for seismic wave classification.
 
